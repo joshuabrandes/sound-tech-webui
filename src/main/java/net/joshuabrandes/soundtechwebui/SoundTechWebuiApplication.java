@@ -1,0 +1,13 @@
+package net.joshuabrandes.soundtechwebui;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SoundTechWebuiApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(SoundTechWebuiApplication.class, args);
+    }
+
+}
